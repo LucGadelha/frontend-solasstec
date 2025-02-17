@@ -1,21 +1,40 @@
-## Sistema de tramitação de documentos
-#### *Atenção, o sistema só irá funcionar em conjunto com o [Backend](https://github.com/LucGadelha/backend-solasstec) inicializado.
+# 📑 Sistema de tramitação de documentos
+## ⚠️ Atenção: Este sistema requer que o [Backend](https://github.com/LucGadelha/backend-solasstec) esteja inicializado para funcionar corretamente.
 
-1 - Inicializando o projeto:
 
-- Para clonar o projeto execute o seguinte comando:
+--
+
+## 🚀 Inicializando o projeto:
+
+## 📥 Clonando o Repositório
+
+Para começar, clone o projeto executando o seguinte comando:
 
 ```bash
 git clone https://github.com/LucGadelha/frontend-solasstec.git
 ```
-- Em seguida vamos instalar as dependências. Execute os comandos a seguir para acessar o diretório do projeto e em seguida instalar a pasta 'node_modules' com suas dependências.
+
+
+## 📌 Instalando Dependências
+
+### 1. Acesse o diretório do projeto:
+
 ```bash
 cd frontend-solasstec
 ```
+
+
+### 2. Instale as dependências do projeto:
+
 ```bash
 npm install
 ```
-- Após instalar as dependências, inicialize o sistema utilizando um dos seguintes comandos:
+
+
+## ▶️ Executando o Projeto
+
+Para iniciar o sistema, utilize um dos seguintes comandos:
+
 ```bash
 npm run dev
 # ou
@@ -25,8 +44,12 @@ pnpm dev
 # ou
 bun dev
 ```
-## Como o sistema funciona
 
-Você pode 
-- O sistema permite realizar a tramitação de documentos entre setores e realizar cadastro de documentos.
-- O sistema permite cadastrar os dados de tipos de documentos e setores.
+---
+
+## 🛠️ Como o Sistema Funciona
+
+O sistema permite:
+
+✔️ Tramitar documentos entre setores e realizar cadastros de documentos.
+✔️ Gerenciar dados de tipos de documentos e setores.
