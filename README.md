@@ -51,5 +51,5 @@ bun dev
 
 O sistema permite:
 
-✔️ Tramitar documentos entre setores e realizar cadastros de documentos.
-✔️ Gerenciar dados de tipos de documentos e setores.
+### ✔️ Tramitar documentos entre setores e realizar cadastros de documentos.
+### ✔️ Gerenciar dados de tipos de documentos e setores.
