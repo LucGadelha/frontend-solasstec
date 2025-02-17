@@ -1,5 +1,5 @@
 ## Sistema de tramitação de documentos
-#### *Atenção, o sistema só irá funcionar em conjunto com o backend inicializado.
+#### *Atenção, o sistema só irá funcionar em conjunto com o [Backend](https://github.com/LucGadelha/backend-solasstec) inicializado.
 
 1 - Inicializando o projeto:
 
